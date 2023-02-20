@@ -1,5 +1,12 @@
 ### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jdilee&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
+### 你好，世界 👋
+
+- :orange_book: 推荐算法
+- :hammer: 会一点：前端,后端,c#,大数据,运维
+- :ram: 啥都会,啥都不精
+- :meat_on_bone: 这里主要记录推荐算法相关的东西
 <!--
 **jditlee/jditlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
