@@ -6,7 +6,7 @@
 - :orange_book: 推荐算法
 - :hammer: 会一点：前端,后端,c#,大数据,运维
 - :ram: 啥都会,啥都不精
-- :meat_on_bone: 这里主要记录推荐算法相关的东西
+- :meat_on_bone: 这里主要记录一些练手项目
 <!--
 **jditlee/jditlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
